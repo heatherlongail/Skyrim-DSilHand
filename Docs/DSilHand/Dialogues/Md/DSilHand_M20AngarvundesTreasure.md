@@ -10,18 +10,18 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 #### DSilHand_M20KS_Topic01
 
-**Player**: What will be my first job?
+**Player**: What's my job now?
 
-**Krev The Skinner** (*Happy 50*): I have a first task for you. Have you heard about the Wuuthrad ax?    
+**Krev The Skinner** (*Happy 50*): I have your first task. Have you heard of the Wuuthrad axe?    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A63_1.xwm``    
 
 
 #### DSilHand_M20KS_Topic02
 
-**Player**: I'm not sure...
+**Player**: I'm not sure.
 
-**Krev The Skinner** (*Neutral 50*): The Wuuthrad ax is a legendary weapon owned by the great Nord hero, Ysgramor, the spiritual leader of our group.    
+**Krev The Skinner** (*Neutral 50*): The Wuuthrad axe is a legendary weapon owned by the great Nord hero, Ysgramor - the spiritual leader of our group.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_1.xwm``    
 
@@ -29,27 +29,27 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_2.xwm``    
 
-**Krev The Skinner** (*Neutral 50*): He used the tears of grief from his father, made of pure ebony.    
+**Krev The Skinner** (*Neutral 50*): Forged of the tears of his father's grief, making a weapon of the finest pure ebony.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_3.xwm``    
 
-**Krev The Skinner** (*Neutral 50*): But it was broken into dozens of pieces, many centuries ago.    
+**Krev The Skinner** (*Neutral 50*): But it was broken into over a dozen pieces many centuries ago.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_4.xwm``    
 
-**Krev The Skinner** (*Neutral 50*): The fragments were spread all across Tamriel. We, the Silver Hands, have been looking for the fragments since our foundation.    
+**Krev The Skinner** (*Neutral 50*): The fragments were spread all across Skyrim. We, the Silver Hand, have been looking for the fragments since our foundation.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_5.xwm``    
 
-**Krev The Skinner** (*Neutral 50*): I received a letter this morning from Fjol, the leader of the Driftshade Refugee camp. He is the second after my command.     
+**Krev The Skinner** (*Neutral 50*): I received a letter this morning from Fjol, the leader of the Driftshade Refuge camp. He's my second in command.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_6.xwm``    
 
-**Krev The Skinner** (*Neutral 50*): His research led him to conclude that a possible location of one of the remaining fragments is an old Nordic ruin on the Rift.    
+**Krev The Skinner** (*Neutral 50*): His research makes him think that one of the missing fragments may be in some ruins in the Rift, and I trust his judgement.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_7.xwm``    
 
-**Krev The Skinner** (*Neutral 50*): Talk to Hillara. She will accompany you on this adventure.    
+**Krev The Skinner** (*Neutral 50*): Talk to Hillara. She'll accompany you on this adventure. May the gods be with you.   
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_8.xwm``    
 
@@ -61,13 +61,13 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 #### DSilHand_M20KF_Topic01
 
-**Player**: I find the fragment.
+**Player**: We found the fragment.
 
-**Krev The Skinner** (*Neutral 50*): By Ysgramor! You did it. You found the fragment! Fjol was right once again. Congratulations. You are doing very well brother.     
+**Krev The Skinner** (*Neutral 50*): By Ysgramor! You did it. You found the fragment! Fjol was right once again. Congratulations. You're doing very well brother.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KF__00013A72_1.xwm``    
 
-**Krev The Skinner** (*Neutral 50*): You should meet Fjol. He should have another tasks for you.    
+**Krev The Skinner** (*Neutral 50*): You should meet Fjol. He's decent with a sword, but he's the best strategist I've ever met. I'm sure he's figured out what to do next. 
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KF__00013A72_2.xwm``    
 
@@ -81,7 +81,7 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 **Player**: I found the fragment!
 
-**HIllara** (*Happy 50*): We did it! You found the fragment! Let not waste any time. We must return to Gallows Rock and bring it to Krev.    
+**HIllara** (*Happy 50*): We've done it! Good work, friend. Let us quickly return to Gallows Rock and bring it to Krev. I would like to escape this damn cold.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\FemaleEvenToned\DSilHand_M_DSilHand_M20HC__00013A6E_1.xwm``    
 
@@ -93,17 +93,17 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 #### DSilHand_M20HM_Topic01
 
-**Player**: Krev said that we will look for the Wuuthrad ax.
+**Player**: Krev said that we'll be looking for the Wuuthrad axe.
 
-**HIllara** (*Surprise 50*): Aw yes. Krev told told me about the clues Fjol was able to find.     
+**HIllara** (*Surprise 50*): Indeed. Krev told me that Fjol had found many clues from his studies.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\FemaleEvenToned\DSilHand_M_DSilHand_M20HM__00013A68_1.xwm``    
 
-**HIllara** (*Happy 50*): He believes that one of the missing fragments of Ysgramor's ax is part of Angarvunde treasure trove.    
+**HIllara** (*Happy 50*): He believes that a fragments of the axe of Ysgramore lies among the treasure of Angarvunde.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\FemaleEvenToned\DSilHand_M_DSilHand_M20HM__00013A68_2.xwm``    
 
-**HIllara** (*Happy 50*): I'll mark the location of the tomb on your map. It is located between Riften and Ivarstead.    
+**HIllara** (*Happy 50*): I will mark on your map the location of the tomb. It is located between Riften and Ivarstead.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\FemaleEvenToned\DSilHand_M_DSilHand_M20HM__00013A68_3.xwm``    
 
@@ -112,7 +112,7 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 **Player**: Let's go!
 
-**HIllara** (*Happy 50*): Lead the way.     
+**HIllara** (*Happy 50*): Yes! Lead on.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\FemaleEvenToned\DSilHand_M_DSilHand_M20HM__00013A6A_1.xwm``    
 
