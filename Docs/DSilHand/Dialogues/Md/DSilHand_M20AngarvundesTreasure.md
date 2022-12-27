@@ -45,7 +45,7 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_6.xwm``    
 
-**Krev The Skinner** (*Neutral 50*): His research makes him think that one of the missing fragments may be in some ruins in the Rift, and I trust his judgement.    
+**Krev The Skinner** (*Neutral 50*): His research makes him think that one of the fragments may be in some ruins in the Rift, and I trust his judgement.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_7.xwm``    
 
