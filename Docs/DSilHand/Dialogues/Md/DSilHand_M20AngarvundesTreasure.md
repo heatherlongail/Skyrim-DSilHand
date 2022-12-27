@@ -99,7 +99,7 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\FemaleEvenToned\DSilHand_M_DSilHand_M20HM__00013A68_1.xwm``    
 
-**HIllara** (*Happy 50*): He believes that a fragment of the axe of Ysgramore lies among the treasure of Angarvunde.    
+**HIllara** (*Happy 50*): He believes that a fragment of the axe of Ysgramore lies among the treasure of Angarvunde. I hope only that the draugr have kept the braziers warm.   
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\FemaleEvenToned\DSilHand_M_DSilHand_M20HM__00013A68_2.xwm``    
 
