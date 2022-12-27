@@ -45,7 +45,7 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_6.xwm``    
 
-**Krev The Skinner** (*Neutral 50*): His research makes him think that one of the fragments may be in some ruins in the Rift, and I trust his judgement.    
+**Krev The Skinner** (*Neutral 50*): His research makes him think that one of the fragments may be in a set of ruins in the Rift, and I trust his judgement.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KS__00013A65_7.xwm``    
 
@@ -63,7 +63,7 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 **Player**: We found the fragment.
 
-**Krev The Skinner** (*Neutral 50*): By Ysgramor! You did it. You found the fragment! Fjol was right once again. Congratulations. You're doing very well brother.     
+**Krev The Skinner** (*Neutral 50*): By Ysgramor! You did it. We have another fragment! Fjol was right once again. Congratulations. You're doing very well brother.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleNord\DSilHand_M_DSilHand_M20KF__00013A72_1.xwm``    
 
@@ -99,7 +99,7 @@ _This is the mods second quest. It will be enabled once the player finishes the 
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\FemaleEvenToned\DSilHand_M_DSilHand_M20HM__00013A68_1.xwm``    
 
-**HIllara** (*Happy 50*): He believes that a fragments of the axe of Ysgramore lies among the treasure of Angarvunde.    
+**HIllara** (*Happy 50*): He believes that a fragment of the axe of Ysgramore lies among the treasure of Angarvunde.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\FemaleEvenToned\DSilHand_M_DSilHand_M20HM__00013A68_2.xwm``    
 
