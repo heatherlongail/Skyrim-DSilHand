@@ -25,7 +25,7 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_1.xwm``    
 
-**Fjol** (*Happy 70*): That's remarkable! The mages of the College have discovered another possible location for the next fragment!    
+**Fjol** (*Happy 70*): That's remarkable! The mages of the College have discovered a possible location for the next fragment!    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_2.xwm``    
 
@@ -41,7 +41,7 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_5.xwm``    
 
-**Fjol** (*Neutral 50*): I'll mark the location on your map. And I'll make the arrangements to get some manpower there for the excavations.     
+**Fjol** (*Neutral 50*): I'll mark the location on your map. And I'll make the arrangements to get some manpower for the excavation.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_6.xwm``    
 
@@ -58,7 +58,7 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603F_1.xwm``    
 
-**Fjol** (*Neutral 50*): Take this weapon as a reward. It's a silver sword, but with an ancient tempering method using dwemer oil.    
+**Fjol** (*Neutral 50*): Take this weapon as a reward. It's a silver sword, but with an ancient tempering method using Dwemer oil.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603F_2.xwm``    
 
@@ -66,7 +66,7 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603F_3.xwm``    
 
-**Fjol** (*Happy 50*): Go talk with Kurdak if you want to learn more about it.    
+**Fjol** (*Happy 50*): You'll have to speak with Kurdak if you want to learn more about it.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603F_4.xwm``    
 
@@ -124,20 +124,19 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 **Player**: Dogs in Whiterun?
 
-**Fjol** (*Disgust 50*): Yes. The Companions. The members of the Circle. They are lycanthropes, every single one.    
+**Fjol** (*Disgust 50*): Yes. The Companions. Specifically the members of the Circle. They're lycanthropes, every single one.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACD_1.xwm``    
 
 
 #### DSilHand_M30_FMTopic04
 
-**Player**:  Members of the Circle?
-
-**Fjol** (*Anger 50*): Their guild leaders. The Companions claim to all be equals, and that was once true. A very long time ago.    
+**Player**:  Members of the Circle
+**Fjol** (*Anger 50*): Their guild leaders. The Companions claim to be equals, and the Circle just their most respected members. But that was a very long time ago.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACF_1.xwm``    
 
-**Fjol** (*Anger 50*): Now, every member of the Circle shares the same beast blood. Harbinger Terrfyg convinced them to pledge themselves to Hircine for savage power.
+**Fjol** (*Anger 50*): Now, every member of the Circle shares the same beast blood. Harbinger Terrfyg convinced them to pledge their souls to Hircine for savage power.
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACF_2.xwm``    
 
@@ -150,7 +149,7 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD1_1.xwm``    
 
-**Fjol** (*Anger 50*): But we refused to stay quiet with our knowledge. So now, they persecute us.    
+**Fjol** (*Anger 50*): But we wouldn't stay quiet with our knowledge. So now, they persecute us.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD1_2.xwm``    
 
@@ -162,7 +161,7 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD1_4.xwm``    
 
-**Fjol** (*Neutral 50*): Just ask him if he still has that silver ring to sell. If he has any good news, he will find a way to tell you.    
+**Fjol** (*Neutral 50*): Just ask him if he still has that silver ring to sell. If he has any news for us, he will find a way to tell you.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD1_5.xwm``    
 
