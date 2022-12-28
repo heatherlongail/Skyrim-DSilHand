@@ -12,7 +12,7 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 **Player**:  I found another fragment. The mages were studying it.
 
-**Fjol** (*Happy 70*): I can't believe it. Ysgramor must be helping us from Sovngarde.    
+**Fjol** (*Happy 70*): I can hardly believe it. Ysgramor must be helping us from Sovngarde.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_00015AD9_1.xwm``    
 
@@ -25,27 +25,27 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_1.xwm``    
 
-**Fjol** (*Happy 70*): That is amazing! The mages of the college have discovered another possible location for the next fragment!    
+**Fjol** (*Happy 70*): That's remarkable! The mages of the College have discovered another possible location for the next fragment!    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_2.xwm``    
 
-**Fjol** (*Puzzled 60*): Dustman's Cairn... I know where this place is.    
+**Fjol** (*Puzzled 60*): Dustman's Cairn... I'm familiar with that place.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_3.xwm``    
 
-**Fjol** (*Puzzled 50*): The letter says they were going to inform the Companions about the location...     
+**Fjol** (*Puzzled 50*): The letter states they were going to inform the Companions about the location...     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_4.xwm``    
 
-**Fjol** (*Surprise 50*): We must hurry! We must go fast and be there as soon as possible.     
+**Fjol** (*Surprise 50*): We must hurry! We need to make haste and be there as soon as possible.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_5.xwm``    
 
-**Fjol** (*Neutral 50*): I'll mark the location on your map. I'll make the arrangements and gather some manpower for the excavations.     
+**Fjol** (*Neutral 50*): I'll mark the location on your map. And I'll make the arrangements to get some manpower there for the excavations.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_6.xwm``    
 
-**Fjol** (*Neutral 50*):  Meet me there in a few hours. I'll make the location on your map.    
+**Fjol** (*Neutral 50*):  Meet me there as soon as you can. We can only pray we're not too late.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603D_7.xwm``    
 
@@ -54,15 +54,15 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 **Player**: I'll be there!
 
-**Fjol** (*Happy 50*): Good! Before we continue, I need to thank you for your efforts.    
+**Fjol** (*Happy 50*): Good! But one last thing: I need to thank you for your efforts.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603F_1.xwm``    
 
-**Fjol** (*Neutral 50*): Take this sword as a reward for your efforts. It is a silver sword, but with a secret tempering method that uses dwemer oil.    
+**Fjol** (*Neutral 50*): Take this weapon as a reward. It's a silver sword, but with an ancient tempering method using dwemer oil.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603F_2.xwm``    
 
-**Fjol** (*Neutral 50*): This tempering makes it as hard and sharp as ebony.    
+**Fjol** (*Neutral 50*): This tempering makes it as hard and sharp as ebony. Sharper, perhaps    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FF_0001603F_3.xwm``    
 
@@ -94,28 +94,28 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 **Player**: Are you Fjol?
 
-**Fjol** (*Neutral 50*): Yes. I'm. I believe you are the recruit, I'm right?    
+**Fjol** (*Neutral 50*): Indeed I am. I believe you're the new recruit, am I right?    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AC9_1.xwm``    
 
 
 #### DSilHand_M30_FMTopic02
 
-**Player**: Yes, you are. We found the Wuuthrad fragment on Angarvunde's treasure.
+**Player**: You are. We found the Wuuthrad fragment in Angarvunde's treasure.
 
-**Fjol** (*Happy 100*): Is that true? Brave! We are one piece closer to finishing that puzzle!    
+**Fjol** (*Happy 100*): Is that so? Very commendable! We're one piece closer to finishing the puzzle!    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACB_1.xwm``    
 
-**Fjol** (*Happy 50*): As Krev may have told you, we the Silver Hand have been searching for the pieces of Wuuthrad for some centuries now.    
+**Fjol** (*Happy 50*): As Krev may have let you know, we, the Silver Hand, have been searching for the pieces of Wuuthrad for nearly a decade now.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACB_2.xwm``    
 
-**Fjol** (*Neutral 50*): It was broken into twelve pieces hundreds of years ago. Right now, the Dogs in Whiterun have four pieces.    
+**Fjol** (*Neutral 50*): It was shattered into twelve pieces hundreds of years ago. At the moment, the dogs in Whiterun have four pieces.    
 
-``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACB_3.xwm``    
+``Datadound\VoicedDawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACB_3.xwm``    
 
-**Fjol** (*Happy 50*): But, thanks to your help, we do have five fragments right now.     
+**Fjol** (*Happy 50*): But, with your help to thank, we've got our hands on five fragments.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACB_4.xwm``    
 
@@ -124,7 +124,7 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 **Player**: Dogs in Whiterun?
 
-**Fjol** (*Disgust 50*): Yes. The Companions. The members of the circle. They are werewolves. All of them.    
+**Fjol** (*Disgust 50*): Yes. The Companions. The members of the Circle. They are lycanthropes, every single one.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACD_1.xwm``    
 
@@ -133,11 +133,11 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 **Player**:  Members of the Circle?
 
-**Fjol** (*Anger 50*): Yes. Their leaders. They say they are all equals. That was true in the past. Centuries ago.    
+**Fjol** (*Anger 50*): Their guild leaders. The Companions claim to all be equals, and that was once true. A very long time ago.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACF_1.xwm``    
 
-**Fjol** (*Anger 50*): Before they started to worship Hircine. Now, all the members of the circle share the same beast blood.    
+**Fjol** (*Anger 50*): Now, every member of the Circle shares the same beast blood. Harbinger Terrfyg convinced them to pledge themselves to Hircine for savage power.
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015ACF_2.xwm``    
 
@@ -146,32 +146,32 @@ _This quest is given to the player by Krev The Skinner after he completes the se
 
 **Player**: How do you know that?
 
-**Fjol** (*Sad 50*): This is a long history. Let's I and Krev were invited to become beasts, and refused the "gift".     
+**Fjol** (*Sad 50*): I'm afriad it's a long story. To be brief, Krev and I were invited to become beasts, and refused the "gift".     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD1_1.xwm``    
 
-**Fjol** (*Anger 50*): But we didn't want to stay quiet as well. Now, they are persecuting us.     
+**Fjol** (*Anger 50*): But we refused to stay quiet with our knowledge. So now, they persecute us.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD1_2.xwm``    
 
-**Fjol** (*Puzzled 50*): Enough talk about the past...  Soon we may talk more about that. Now I need a favor.    
+**Fjol** (*Puzzled 50*): But enough talk about the past...  there will be another time for it. For now, I have a task for you.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD1_3.xwm``    
 
-**Fjol** (*Neutral 50*): Could you please talk to an informant we have on Winterhold? He is called Nelacar.     
+**Fjol** (*Neutral 50*): Please talk to an informant we have in Winterhold. His name is Nelacar.     
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD1_4.xwm``    
 
-**Fjol** (*Neutral 50*): Just ask him, if he still has that silver ring to sell. If he has any good news, he will find a way to tell you.    
+**Fjol** (*Neutral 50*): Just ask him if he still has that silver ring to sell. If he has any good news, he will find a way to tell you.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD1_5.xwm``    
 
 
 #### DSilHand_M30_FMTopic06
 
-**Player**: Consider the task done!
+**Player**: Consider it done!
 
-**Fjol** (*Neutral 50*): Good Brother! That's the spirit! Please, be discrete as possible. No one should know he is our informant.    
+**Fjol** (*Neutral 50*): Good Brother/Sister! (Should figure out how to have a brother and sister variant based on gender) That's the spirit! Please, be discrete as possible. No one should know he is our informant.    
 
 ``Data\Sound\Voice\DawnOfTheSilverHand.esp\MaleEvenTonedAccented\DSilHand_M_DSilHand_M30_FM_00015AD3_1.xwm``    
 
